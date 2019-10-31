@@ -33,8 +33,5 @@ For each project is a standalone folder and link to it below.
 <details>
 <summary>Full List</summary>
 
-- **Day 19 - Challenge 01:** [Unit Conversion](./challenge-01/)
+- **Day 19 - Challenge 01:** [Unit Conversion](./challenge-01/) Temperature
 </details>
-
-
-100-days-of-swiftui
